@@ -10,9 +10,9 @@ const config = {
   mode: "development",
   plugins: [
     new WebpackPwaManifest({
-      name: "Images App",
-      short_name: "Images App",
-      description: "An application for images",
+      name: "Budget App",
+      short_name: "Budget App",
+      description: "An application for Budget",
       background_color: "#01579b",
       theme_color: "#ffffff",
       "theme-color": "#ffffff",
